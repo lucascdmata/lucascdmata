@@ -5,6 +5,10 @@ Atuo com suporte de TI e infraestrutura, e atualmente estou estudando redes e au
 - 💼 Trabalhando com suporte técnico.
 - 🛠️ Tecnologias: Windows, Linux, Redes e Virtualização.
 
+Atualmente desenvolvendo um laboratório para estudos!
+
+- Projeto de infraestrutura de redes focado em segmentação corporativa, aplicando conceitos práticos de redes e certificação CCNA. (Em andamento)
+
 <!--
 **lucascdmata/lucascdmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
