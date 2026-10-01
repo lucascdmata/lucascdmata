@@ -7,7 +7,7 @@ Atuo com suporte de TI e infraestrutura, e atualmente estou estudando redes e au
 
 Atualmente desenvolvendo um laboratório para estudos!
 
-- Projeto de infraestrutura de redes focado em segmentação corporativa, aplicando conceitos práticos de redes e certificação CCNA. (Em andamento)
+- Projeto de infraestrutura de redes focado em segmentação corporativa, aplicando conceitos práticos de redes e certificação CCNA.
 
 <!--
 **lucascdmata/lucascdmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
