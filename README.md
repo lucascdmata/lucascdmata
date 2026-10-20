@@ -1,25 +1,32 @@
-## Olá! Eu sou o Lucas! 
+### Olá, eu sou o Lucas 👋
 
-Atuo com suporte de TI e infraestrutura, e atualmente estou estudando redes e automação (focado em CCNA). 👋
+Aspirante a **Engenheiro de Redes**, atualmente consolidando fundamentos em infraestrutura corporativa, automação e segurança da informação.
 
-- 💼 Trabalhando com suporte técnico.
-- 🛠️ Tecnologias: Windows, Linux, Redes e Virtualização.
+---
 
-Atualmente desenvolvendo um laboratório para estudos!
+### 🚀 Sobre Mim
+* 🎓 Estudante de redes, com foco atual na certificação **CCNA v7** e preparação para ambientes corporativos de alta disponibilidade.
+* 🛡️ Praticante de cibersegurança, explorando Linux, pentest, automação em Python e defesa de redes.
+* 📊 Movido a desafios práticos, documentação técnica e laboratórios de arquitetura de redes.
 
-- Projeto de infraestrutura de redes focado em segmentação corporativa, aplicando conceitos práticos de redes.
+---
 
-<!--
-**lucascdmata/lucascdmata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Minha Stack & Tecnologias
+[![Cisco](https://img.shields.io/badge/Cisco-CCNA%20v7-1BA1E2?style=flat&logo=cisco&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
+[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![Cybersecurity](https://img.shields.io/badge/Security-Pentest%20%26%20Hardening-D32F2F?style=flat&logo=kalilinux&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Tools-Git%20&%20GitHub-F05032?style=flat&logo=git&logoColor=white)]()
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Meus Projetos em Destaque
+* [Registros_Estudos_Redes](https://github.com/lucascdmata/Registros_Estudos_Redes) — Diário de laboratórios, roteamento, switching, VLANs e conceitos de engenharia de redes.
+* [Bootcamp_Santander_Ciberseguranca](https://github.com/lucascdmata/Bootcamp_Santander_Ciberseguranca) — Jornada prática em cibersegurança, Linux, análise de vulnerabilidades e automação.
+
+---
+
+### 📊 Estatísticas do GitHub
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucascdmata&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
