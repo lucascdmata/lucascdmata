@@ -14,9 +14,12 @@ Aspirante a **Engenheiro de Redes**, atualmente consolidando fundamentos em infr
 ### 🛠️ Minha Stack & Tecnologias
 [![Cisco](https://img.shields.io/badge/Cisco-CCNA%20v7-1BA1E2?style=flat&logo=cisco&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat&logo=OpenWrt&logoColor=white)
 [![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)]()
 [![Cybersecurity](https://img.shields.io/badge/Security-Pentest%20%26%20Hardening-D32F2F?style=flat&logo=kalilinux&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Tools-Git%20&%20GitHub-F05032?style=flat&logo=git&logoColor=white)]()
+
+
 
 ---
 
