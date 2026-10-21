@@ -24,7 +24,7 @@ Aspirante a **Engenheiro de Redes**, atualmente consolidando fundamentos em infr
 ---
 
 ### 📂 Meus Projetos em Destaque
-* [Registros_Estudos_Redes](https://github.com/lucascdmata/Registros_Estudos_Redes) — Diário de laboratórios, roteamento, switching, VLANs e conceitos de engenharia de redes.
+* [Jornada_Estudos_Redes](https://github.com/lucascdmata/Jornada_Estudos_Redes) — Diário de laboratórios, roteamento, switching, VLANs e conceitos de engenharia de redes.
 * [Bootcamp_Santander_Ciberseguranca](https://github.com/lucascdmata/Bootcamp_Santander_Ciberseguranca) — Jornada prática em cibersegurança, Linux, análise de vulnerabilidades e automação.
 
 * [Simulacao_Filial_Corporativa](https://github.com/lucascdmata/Simulacao_Filial_Corporativa) - Projeto de infraestrutura de redes focado em segmentação corporativa, isolamento de visitantes (Guest Wi-Fi), gerenciamento de identidade com Active Directory. O projeto atualmente encontra-se em pausa, pois estou trabalhando na versão V2 deste projeto.
